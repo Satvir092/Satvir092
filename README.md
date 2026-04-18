@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi I'm Satvir
 
-<!--
-**Satvir092/Satvir092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a sophmore studying CS at UCI. I have great interest into breaking into
+software. I have experience within web development specifically with Flask + Supabase. 
 
-Here are some ideas to get you started:
+## My Projects
+- Launched a fullstack website using Flask, JS, Supabase, and HTML/CSS/JS.
+- Launced a simple website for a local eyebrow threading business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals/Intersts
+- I am hoping to contribute to a Software/IT project or internship.
+- Look forward to working with a team of others to learn and become better engineers through collaboration.
+- Open to working with either backend or frontend technologies.
+
+## Skills
+- Python, Flask
+- Supabase, SQL
+- HTML/CSS/JS
