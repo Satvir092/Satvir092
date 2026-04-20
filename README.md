@@ -1,6 +1,6 @@
 ## Hi I'm Satvir
 
-I am currently a sophmore studying CS at UCI. I have great interest into breaking into
+I am currently a sophmore studying CS at UCI. I have great interest aspirations of breaking into
 software. I have experience within web development specifically with Flask + Supabase. 
 
 ## My Projects
